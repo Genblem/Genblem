@@ -14,7 +14,7 @@
 </a>
 <br>
 <a title="My Youtube" href="https://www.youtube.com/channel/UCAFGIqvE4tKsFdxwNord55w">
-    <img align="center" alt="facebook.com" width="26px" src="https://img.icons8.com/fluency/344/youtube-play.png">
+    <img align="center" alt="facebook.com" width="26px" src="https://img.icons8.com/color/512/youtube-play.png">
 </a>
 <br>
 <a title="My Twitter" href="https://twitter.com/l1braxiv">
