@@ -5,17 +5,16 @@
 👀 I’m interested in web developer frontend-backend & ios developer 
 
 # 👾 Punch It!
-
 <a title="My Facebook" href="https://www.facebook.com/honjonevar">
-    <img align="left" alt="facebook.com" width="15px" src="https://img.icons8.com/pix/344/experimental-facebook-new-pix.png">
+    <img align="left" alt="facebook.com" width="22px" src="https://img.icons8.com/color/344/facebook-new.png">
 </a>
 <br>
-<a title="My Instagram" href="https://www.instagram.com/llut.librax14/"><img align="left" alt="facebook.com" width="15px" src="https://img.icons8.com/fluency-systems-regular/344/instagram-new--v1.png">
+<a title="My Instagram" href="https://www.instagram.com/llut.librax14/"><img align="left" alt="facebook.com" width="22px" src="https://img.icons8.com/fluency/344/instagram-new.png">
 </a>
 <br>
-<a title="My Youtube" href="https://www.youtube.com/channel/UCAFGIqvE4tKsFdxwNord55w"><img align="left" alt="facebook.com" width="15px" src="https://img.icons8.com/windows/344/youtube-play.png">
+<a title="My Youtube" href="https://www.youtube.com/channel/UCAFGIqvE4tKsFdxwNord55w"><img align="left" alt="facebook.com" width="22px" src="https://img.icons8.com/fluency/344/youtube-play.png">
 </a>
 <br>
-<a title="My Twitter" href="https://twitter.com/l1braxiv"><img align="left" alt="facebook.com" width="15px" src="https://img.icons8.com/material-sharp/344/twitter.png">
+<a title="My Twitter" href="https://twitter.com/l1braxiv"><img align="left" alt="facebook.com" width="22px" src="https://img.icons8.com/color/344/twitter--v1.png">
 </a>
 <br>
