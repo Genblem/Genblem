@@ -18,6 +18,6 @@
 </a>
 <br>
 <a title="My Twitter" href="https://twitter.com/l1braxiv">
-    <img align="center" alt="facebook.com" width="26px" src="https://img.icons8.com/color/344/twitter--v1.png">
+    <img align="center" alt="facebook.com" width="26px" src="https://img.icons8.com/color/512/twitter--v1.png">
 </a>
 <br>
