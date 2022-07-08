@@ -5,16 +5,16 @@
 👀 I’m interested in web developer frontend-backend & ios developer 
 
 # 👾 Contact :
-<a title="My Facebook" href="https://www.facebook.com/honjonevar" target="_blank">
+<a title="My Facebook" href="https://www.facebook.com/honjonevar" target="_black">
     <img align="center" alt="facebook.com" width="50px" src="https://img.icons8.com/color/512/facebook-new.png">  
 </a>
-<a title="My Instagram" href="https://www.instagram.com/llut.librax14/" target="_blank">
+<a title="My Instagram" href="https://www.instagram.com/llut.librax14/" target="_black">
     <img align="center" alt="instagram" width="50px" src="https://img.icons8.com/color/512/instagram-new--v1.png">  
 </a>
-<a title="My Youtube" href="https://www.youtube.com/channel/UCAFGIqvE4tKsFdxwNord55w" target="_blank">
+<a title="My Youtube" href="https://www.youtube.com/channel/UCAFGIqvE4tKsFdxwNord55w" target="_black">
     <img align="center" alt="Youtube" width="50px" src="https://img.icons8.com/color/512/youtube-play.png">  
 </a>
-<a title="My Twitter" href="https://twitter.com/l1braxiv" target="_blank">
+<a title="My Twitter" href="https://twitter.com/l1braxiv" target="_black">
     <img align="center" alt="twitter" width="50px" src="https://img.icons8.com/color/512/twitter--v1.png">  
 </a>
 
