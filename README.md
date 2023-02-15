@@ -1,4 +1,4 @@
-Hi 🐢 My name is Patithan Akepanithanpong
+Hi 🐢 My name is Panithan Akepanithanpong
 =========================================
 
 Frontend Web Developer And Video Editor
