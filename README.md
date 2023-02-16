@@ -9,7 +9,7 @@ I've been learning to python, Java, C++ and Arduino Robot for 3 years from schoo
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [My Portfolio](http://https://genblemlink.netlify.app/)
 * ✉️  You can contact me at [genblem.forwork@gmail.com](mailto:genblem.forwork@gmail.com)
-* 🧠  I'm learning React, Rest API, TailwindCSS, Typescript
+* 🧠  I'm learning React.js, Vue.js, Rest API, TailwindCSS, Typescript
 * 🤝  I'm open to collaborating on Notes Application, Portfolio Website.
 * 🌻  I'm Valorant Player :D | Immortal 2 ( Act 3 ) |
 
