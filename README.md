@@ -10,7 +10,6 @@ Frontend Web Developer And Video Editor
 * ✉️  You can contact me at [genblem.forwork@gmail.com](mailto:genblem.forwork@gmail.com)
 * 🧠  I'm learning React.js, Vue.js, Rest API, TailwindCSS, Typescript
 * 🤝  I'm open to collaborating on Notes Application, Portfolio Website.
-* 🌻  I'm Valorant Player :D | Immortal 2 ( Act 3 ) |
 
 <a href="https://www.twitter.com/Genblemz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Genblemz?logo=twitter&style=for-the-badge&color=10b981&labelColor=ffffff"
