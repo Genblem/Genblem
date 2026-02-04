@@ -1,44 +1,29 @@
-Hi 🐢 My name is Panithan Akepanithanpong
-=========================================
+# Hi there, I'm Panithan 👋
 
-Freelance Video Editor
-------------------------------
+> **Web Developer & Content Creator** based in Thailand.
+> I love building web applications and sharing my journey through content.
 
+---
 
-* 🌍  I'm based in Mahasarakham
-* 🖥️  See my portfolio at [My Portfolio](https://genblem.carrd.co/)
-* ✉️  You can contact me at [genblem.forwork@gmail.com](mailto:genblem.forwork@gmail.com)
-* 🧠  I'm learning React.js, Vue.js, Rest API, TailwindCSS, Typescript
-* 🤝  I'm open to collaborating on Notes Application, Portfolio Website.
+### 💻 Tech Stack & Skills
 
-<a href="https://www.twitter.com/Genblemz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Genblemz?logo=twitter&style=for-the-badge&color=10b981&labelColor=ffffff"
-/></a><a href="https://www.twitch.tv/genblem" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/genblem?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=ffffff&label=TWITCH+STATUS" /></a>
+**Languages & Frameworks**
+* ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### Skills
+**Tools & Others**
+* **Streaming:** OBS Studio, TikTok Content
+* **Interests:** PC Hardware, FPS Gaming (Valorant, CS2), Dota 2
 
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+### 🌱 Currently...
+* **Learning:** Deep diving into **Next.js** and **Express.js** architecture.
+* **Playing:** Climbing ranks in Valorant & Dota 2.
+* **Goal:** Combining my Mass Comm background with tech skills.
 
+---
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Genblem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Genblemz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCf-bA9AgI9pdL8VMl0z4dsQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/genblem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/Genblem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genblem&langs_count=10&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Genblem"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### 📫 Connect with me
+* [YouTube/TikTok Link]
+* [Email Address]
