@@ -24,5 +24,5 @@
 ---
 
 ### 📫 Connect with me
-* [YouTube/TikTok Link]
-* [Email Address]
+* [YouTube](https://www.youtube.com/@Genblem)/[TikTok Link](https://www.tiktok.com/@genblem?lang=en)
+* [Email Address](genblem.forwork@gmail.com)
