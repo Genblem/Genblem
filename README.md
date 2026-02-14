@@ -20,8 +20,12 @@
 * **Learning:** Deep diving into **Next.js** and **Express.js** architecture.
 * **Playing:** Climbing ranks in Valorant & Dota 2.
 * **Goal:** Combining my Mass Comm background with tech skills.
+* 
 
 ---
+
+### Badge & Certificate
+[![Intro to Gen AI](https://learn.microsoft.com/en-us/training/achievements/fundamentals-generative-ai.svg)](https://learn.microsoft.com/api/achievements/share/en-us/PanithanAkepanithanpong-1982/4G33B3QK?sharingId=E581883C0E6610E1)
 
 ### 📫 Connect with me
 * [YouTube](https://www.youtube.com/@Genblem)/[TikTok Link](https://www.tiktok.com/@genblem?lang=en)
